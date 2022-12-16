@@ -1,0 +1,12 @@
+.container {
+  width: min(90%, 900px);
+  margin-inline: auto;
+  margin-block: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.container li {
+  cursor: pointer;
+}

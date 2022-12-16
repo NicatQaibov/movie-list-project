@@ -1,0 +1,24 @@
+.listItem {
+  display: flex;
+  gap: 5%;
+  background-color: #ffeedb;
+  padding: 1.2rem;
+  border-radius: 10px;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.imgContainer {
+  flex: 1 1 25%;
+}
+
+.imgContainer img {
+  width: 100%;
+}
+
+.nameContainer {
+  flex: 1 1 65%;
+}
+
+.name {
+  font-weight: 500;
+}

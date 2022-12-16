@@ -1,0 +1,21 @@
+.nav {
+  background: #496ddb;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-inline: 10%;
+  flex-wrap: wrap;
+}
+
+.logo {
+  font-family: "Luckiest Guy", cursive;
+  color: #ffeedb;
+  font-size: 3rem;
+  line-height: 80px;
+}
+
+.links > a {
+  font-size: 1.2rem;
+  color: #ffeedb;
+  text-decoration: underline;
+}
